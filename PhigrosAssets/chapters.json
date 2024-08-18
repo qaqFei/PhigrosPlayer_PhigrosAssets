@@ -4,7 +4,6 @@
             "name": "Test Chapter",
             "cn-name": "测试章节",
             "o-name": "test chapter",
-            "dir": "/test",
             "image": "/test/test.png",
             "songs": [
                 {
@@ -90,7 +89,6 @@
             "name": "Test Chapter 2",
             "cn-name": "测试章节2",
             "o-name": "test chapter 2",
-            "dir": "/test2",
             "image": "/test2/test2.png",
             "songs": []
         },
@@ -98,7 +96,6 @@
             "name": "Test Chapter 3",
             "cn-name": "测试章节3",
             "o-name": "test chapter 3",
-            "dir": "/test3",
             "image": "/test3/test3.png",
             "songs": []
         },
@@ -106,7 +103,6 @@
             "name": "Test Chapter 4",
             "cn-name": "测试章节4",
             "o-name": "test chapter 4",
-            "dir": "/test4",
             "image": "/test4/test4.png",
             "songs": []
         },
@@ -114,7 +110,6 @@
             "name": "Test Chapter 5",
             "cn-name": "测试章节5",
             "o-name": "test chapter 5",
-            "dir": "/test5",
             "image": "/test5/test5.png",
             "songs": []
         },
@@ -122,7 +117,6 @@
             "name": "Test Chapter 6",
             "cn-name": "测试章节6",
             "o-name": "test chapter 6",
-            "dir": "/test6",
             "image": "/test6/test6.png",
             "songs": []
         },
@@ -130,7 +124,6 @@
             "name": "Test Chapter 7",
             "cn-name": "测试章节7",
             "o-name": "test chapter 7",
-            "dir": "/test7",
             "image": "/test7/test7.png",
             "songs": []
         },
@@ -138,7 +131,6 @@
             "name": "Test Chapter 8",
             "cn-name": "测试章节8",
             "o-name": "test chapter 8",
-            "dir": "/test8",
             "image": "/test8/test8.png",
             "songs": []
         },
@@ -146,7 +138,6 @@
             "name": "Test Chapter 9",
             "cn-name": "测试章节9",
             "o-name": "test chapter 9",
-            "dir": "/test9",
             "image": "/test9/test9.png",
             "songs": []
         },
@@ -154,7 +145,6 @@
             "name": "Test Chapter 10",
             "cn-name": "测试章节10",
             "o-name": "test chapter 10",
-            "dir": "/test10",
             "image": "/test10/test10.png",
             "songs": []
         }
