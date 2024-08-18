@@ -11,7 +11,7 @@
                     "composer": "Team Grimoire",
                     "image": "/test/rr.png",
                     "preview": "/test/rr.mp3",
-                    "difficulty": [
+                    "difficlty": [
                         {
                             "name": "EZ",
                             "level": "7",
@@ -39,7 +39,7 @@
                     "composer": "nm-y & Kry.exe",
                     "image": "/test/ret.png",
                     "preview": "/test/ret.mp3",
-                    "difficulty": [
+                    "difficlty": [
                         {
                             "name": "IN",
                             "level": "15",
@@ -52,7 +52,7 @@
                     "composer": "COMPOSER",
                     "image": "/test/ret.png",
                     "preview": "/test/ret.mp3",
-                    "difficulty": [
+                    "difficlty": [
                         {
                             "name": "SP",
                             "level": "-1",
@@ -70,7 +70,7 @@
                     "composer": "COMPOSER",
                     "image": "/test/ret.png",
                     "preview": "/test/ret.mp3",
-                    "difficulty": [
+                    "difficlty": [
                         {
                             "name": "PPR",
                             "level": "114",
