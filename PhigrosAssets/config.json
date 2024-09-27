@@ -1,4 +1,4 @@
 {
-    "default-avatar": "./avatar/fengyv.png",
-    "default-background": "./backgrounds/rr.png"
+    "default-avatar": "avatar/fengyv.png",
+    "default-background": "backgrounds/rr.png"
 }
