@@ -13,37 +13,18 @@
                     "preview": "/test/rr.mp3",
                     "difficlty": [
                         {
-                            "name": "EZ",
-                            "level": "7",
-                            "chart": "/test/rrez.zip"
-                        },
-                        {
-                            "name": "HD",
-                            "level": "12",
-                            "chart": "/test/rrhd.zip"
-                        },
-                        {
                             "name": "IN",
                             "level": "15",
-                            "chart": "/test/rrin.zip"
+                            "chart_audio": "/test/rr.mp3",
+                            "chart_image": "/test/rr.png",
+                            "chart_file": "/test/rrat.json"
                         },
                         {
                             "name": "AT",
                             "level": "16",
-                            "chart": "/test/rrat.zip"
-                        }
-                    ]
-                },
-                {
-                    "name": "Retribution",
-                    "composer": "nm-y & Kry.exe",
-                    "image": "/test/ret.png",
-                    "preview": "/test/ret.mp3",
-                    "difficlty": [
-                        {
-                            "name": "IN",
-                            "level": "15",
-                            "chart": "/test/retin.zip"
+                            "chart_audio": "/test/rr.mp3",
+                            "chart_image": "/test/rr.png",
+                            "chart_file": "/test/rrat.json"
                         }
                     ]
                 },
@@ -56,12 +37,16 @@
                         {
                             "name": "SP",
                             "level": "-1",
-                            "chart": "/test/retin.zip"
+                            "chart_audio": "/test/rr.mp3",
+                            "chart_image": "/test/rr.png",
+                            "chart_file": "/test/rrat.json"
                         },
                         {
                             "name": "SB",
                             "level": "64",
-                            "chart": "/test/retin.zip"
+                            "chart_audio": "/test/rr.mp3",
+                            "chart_image": "/test/rr.png",
+                            "chart_file": "/test/rrat.json"
                         }
                     ]
                 },
@@ -74,12 +59,16 @@
                         {
                             "name": "PPR",
                             "level": "114",
-                            "chart": "/test/retin.zip"
+                            "chart_audio": "/test/rr.mp3",
+                            "chart_image": "/test/rr.png",
+                            "chart_file": "/test/rrat.json"
                         },
                         {
                             "name": "?",
                             "level": "514",
-                            "chart": "/test/retin.zip"
+                            "chart_audio": "/test/rr.mp3",
+                            "chart_image": "/test/rr.png",
+                            "chart_file": "/test/rrat.json"
                         }
                     ]
                 }
