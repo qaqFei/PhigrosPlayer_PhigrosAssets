@@ -89,18 +89,18 @@
         "avatars/鸠 徽章.png"
     ],
     "backgrounds": [
-        "Illustration #1011.png",
-        "Illustration #1043.png",
-        "Illustration #1285.png",
-        "Illustration #2253.png",
-        "Illustration #240.png",
-        "Illustration #2616.png",
-        "Illustration #2621.png",
-        "Illustration #3001.png",
-        "Illustration #3328.png",
-        "Illustration #3832.png",
-        "Illustration #4094.png",
-        "Illustration #4783.png",
-        "Illustration #781.png"
+        "backgrounds/Illustration #1011.png",
+        "backgrounds/Illustration #1043.png",
+        "backgrounds/Illustration #1285.png",
+        "backgrounds/Illustration #2253.png",
+        "backgrounds/Illustration #240.png",
+        "backgrounds/Illustration #2616.png",
+        "backgrounds/Illustration #2621.png",
+        "backgrounds/Illustration #3001.png",
+        "backgrounds/Illustration #3328.png",
+        "backgrounds/Illustration #3832.png",
+        "backgrounds/Illustration #4094.png",
+        "backgrounds/Illustration #4783.png",
+        "backgrounds/Illustration #781.png"
     ]
 }
