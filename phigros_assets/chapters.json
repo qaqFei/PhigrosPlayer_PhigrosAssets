@@ -13,18 +13,23 @@
                     "preview": "/test/rr.mp3",
                     "difficlty": [
                         {
-                            "name": "IN",
-                            "level": "15",
+                            "name": "TS",
+                            "level": "2",
                             "chart_audio": "/test/rr.mp3",
                             "chart_image": "/test/rr.png",
-                            "chart_file": "/test/rrat.json"
+                            "chart_file": "/test/rrat.json",
+                            "charter": "RWND -p 16493:62786:92551",
+                            "iller": "犀牛坨动画工坊"
+
                         },
                         {
                             "name": "AT",
                             "level": "16",
                             "chart_audio": "/test/rr.mp3",
                             "chart_image": "/test/rr.png",
-                            "chart_file": "/test/rrat.json"
+                            "chart_file": "/test/rrat.json",
+                            "charter": "RWND -p 16493:62786:92551",
+                            "iller": "犀牛坨动画工坊"
                         }
                     ]
                 },
@@ -39,14 +44,18 @@
                             "level": "-1",
                             "chart_audio": "/test/rr.mp3",
                             "chart_image": "/test/rr.png",
-                            "chart_file": "/test/rrat.json"
+                            "chart_file": "/test/rrat.json",
+                            "charter": "RWND -p 16493:62786:92551",
+                            "iller": "犀牛坨动画工坊"
                         },
                         {
                             "name": "SB",
                             "level": "64",
                             "chart_audio": "/test/rr.mp3",
                             "chart_image": "/test/rr.png",
-                            "chart_file": "/test/rrat.json"
+                            "chart_file": "/test/rrat.json",
+                            "charter": "RWND -p 16493:62786:92551",
+                            "iller": "犀牛坨动画工坊"
                         }
                     ]
                 },
@@ -61,14 +70,18 @@
                             "level": "114",
                             "chart_audio": "/test/rr.mp3",
                             "chart_image": "/test/rr.png",
-                            "chart_file": "/test/rrat.json"
+                            "chart_file": "/test/rrat.json",
+                            "charter": "RWND -p 16493:62786:92551",
+                            "iller": "犀牛坨动画工坊"
                         },
                         {
                             "name": "?",
                             "level": "514",
                             "chart_audio": "/test/rr.mp3",
                             "chart_image": "/test/rr.png",
-                            "chart_file": "/test/rrat.json"
+                            "chart_file": "/test/rrat.json",
+                            "charter": "RWND -p 16493:62786:92551",
+                            "iller": "犀牛坨动画工坊"
                         }
                     ]
                 }
