@@ -36,7 +36,7 @@
                 {
                     "name": "TEST - 1",
                     "composer": "COMPOSER",
-                    "image": "/test/ret.png",
+                    "image": "/test/ret.jpg",
                     "preview": "/test/ret.mp3",
                     "difficlty": [
                         {
